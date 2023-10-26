@@ -1,5 +1,50 @@
-{   
-    "property":[],
-    "seller": [],
-    "buy":[]
-  }
+{
+  "property": [
+    {
+      "pname": "ROSE",
+      "mail": "rose28012003@gmail.com",
+      "num": "755496",
+      "price": "199",
+      "city": "The Nilgiris",
+      "state": "tamilnadu",
+      "houseno": "6/22b",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F15230700%2Ftudor-style-home-exterior-lush-landscaping-628aa053.jpg",
+      "id": 6
+    },
+    {
+      "pname": "ROSE",
+      "mail": "rose28012003@gmail.com",
+      "num": "755496",
+      "price": "2000",
+      "city": "kochi",
+      "state": "kerala",
+      "houseno": "6/22b",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F15230700%2Ftudor-style-home-exterior-lush-landscaping-628aa053.jpg",
+      "id": 8
+    },
+    {
+      "pname": "Albert George",
+      "mail": "albertgeorge533@gmail.com",
+      "num": "963258741",
+      "price": "10000000",
+      "city": "kozhikode",
+      "state": "kerala",
+      "houseno": "34/2",
+      "image": "https://th.bing.com/th/id/R.ddec0a3e540254c5a9a22cfed3c4dc6b?rik=YrQg2u2Art64Cw&riu=http%3a%2f%2fcdn.bestdesignideas.com%2fwp-content%2fuploads%2f2016%2f07%2fModern-House-in-Houston-From-Architectural-Firm-StudioMET-1.jpg&ehk=aWjjms5dWAuxOOTsXKhjEFLlPSf9fIAaEb2KrV%2faIso%3d&risl=&pid=ImgRaw&r=0",
+      "id": 11
+    },
+    {
+      "pname": "Albin",
+      "mail": "rose28@gmail.com",
+      "num": "755496",
+      "price": "2500000",
+      "city": "The Nilgiris",
+      "state": "tamilnadu",
+      "houseno": "7/22b",
+      "image": "https://th.bing.com/th/id/OIP.4KFErliQKEyhHNg5tVpYIQHaEZ?pid=ImgDet&w=1400&h=830&rs=1",
+      "id": 12
+    }
+  ],
+  "seller": [],
+  "buy": []
+}
